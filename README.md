@@ -1,4 +1,4 @@
-# AMAZON-Customer-Python Report
+# Amazon-Customer-Python Report
 
 Dashboard Link: 
 
